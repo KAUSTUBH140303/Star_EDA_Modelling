@@ -21,4 +21,4 @@ The main goals of this project are:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/KAUSTUBH140303/Star_EDA_Modelling.git
