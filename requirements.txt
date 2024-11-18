@@ -1,0 +1,11 @@
+# Data manipulation and numerical computations
+pandas
+numpy
+
+# Visualization libraries
+seaborn
+matplotlib
+plotly
+
+# Statistical modeling
+statsmodels

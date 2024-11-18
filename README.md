@@ -22,3 +22,8 @@ The main goals of this project are:
 1. Clone the repository:
    ```bash
    git clone https://github.com/KAUSTUBH140303/Star_EDA_Modelling.git
+
+2. Install all the required dependencies:
+   ```bash
+   cd Star_EDA_Modelling
+   pip install -r requirements.txt
