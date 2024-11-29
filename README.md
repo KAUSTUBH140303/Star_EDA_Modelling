@@ -31,9 +31,7 @@ This project focuses on analyzing the effects of **class size** on student perfo
    ```bash
    cd Star_EDA_Modelling
    pip install -r requirements.txt
-## Key Figures
-![Demographic Information](images/eda1.png)
-![Demographic Information](images/expo.png)
+   ```
 
 ## Results
 
@@ -69,3 +67,7 @@ According to research by the [RISE Programme](https://riseprogramme.org/sites/de
 - **Policy Proposals**: In light of these findings, proposals have been made to **increase the PTR to 40** pupils per teacher in both elementary and secondary schools. This change is estimated to save India **USD 19.4 billion annually** in teacher salary expenses, without compromising learning outcomes.
 
 This suggests that, while reducing class sizes can positively impact learning in certain contexts, the economic and logistical factors in countries like India necessitate careful balancing of class sizes, resource allocation, and learning outcomes.
+
+## Key Figures
+![Demographic Information](images/eda1.png)
+![Demographic Information](images/expo.png)
