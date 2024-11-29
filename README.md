@@ -31,7 +31,7 @@ This project focuses on analyzing the effects of **class size** on student perfo
    ```bash
    cd Star_EDA_Modelling
    pip install -r requirements.txt
-## EDA
+## Key Figures
 ![Demographic Information](images/eda1.png)
 ![Demographic Information](images/expo.png)
 
